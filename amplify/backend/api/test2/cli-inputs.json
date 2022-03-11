@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "test2",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\test2\\amplify\\backend\\api\\test2\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-03-18T05:39:51.459Z",
+      "keyDescription": "test2"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
